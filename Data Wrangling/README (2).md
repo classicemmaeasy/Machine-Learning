@@ -30,6 +30,9 @@ c. Wage: bucket intervals of 50K
 d. Value: bucket intervals of 50M
 e. Release Clause: bucket intervals of 50M
 A. BONUS: Build a prediction model to predict the number of Hits of each payer 
+    
+![Logo](https://learn.onecampusacademy.com/wp-content/uploads/2024/03/oneCampusLogo29Transp2-2.png)
+
 
 ## Authors
 
@@ -43,16 +46,5 @@ A. BONUS: Build a prediction model to predict the number of Hits of each payer
 ```bash
   pip install numpy
   pip install pandas
-```
-    
-![Logo](https://learn.onecampusacademy.com/wp-content/uploads/2024/03/oneCampusLogo29Transp2-2.png)
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
 ```
 
