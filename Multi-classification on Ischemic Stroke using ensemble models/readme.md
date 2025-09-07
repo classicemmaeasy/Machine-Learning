@@ -183,9 +183,3 @@ Pull requests are welcome! Please open an issue to discuss significant changes.
 Specify a license (e.g., MIT, Apache-2.0) to clarify usage and contributions.
 
 ---
-
-## 🙏 Acknowledgments
-
-- Open-source community around Streamlit and scikit-learn.
-- Any datasets or publications used to build the model (cite here).
-
